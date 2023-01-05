@@ -10,7 +10,7 @@ Si vous avez ceci après votre réinstallation pas de panique , j’ai la soluti
 2. Maintenir le bouton power pendant 10 secondes
 3. Sélectionnez de nouveau votre langue et votre date.
 4. Connectez votre wi-fi "important, le wifi doit être identique au précédant"
-5. le même bug surviendra. Pas de panique attendez 5 minutes.
+5. Le même bug surviendra. Pas de panique attendez 5 minutes.
 6. Faites [B], retourner à la sélection des langues puis suivantes, sélectionnez votre réseau Wi-Fi
 7. La mise à jour s'installera et Steam deck effectuera un reboot automatique
 8. Félicitation ça fonctionne
