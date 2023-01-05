@@ -3,7 +3,9 @@
 Tuto Fix l’update loops après le changement de disque dur.
 
 Si vous avez ce-ci après votre réinstallation pas de panique , j’ai la solution
+
 <img src="(https://cdn.discordapp.com/attachments/1001582672440737822/1059938333976961034/rn_image_picker_lib_temp_fa8e7dfd-04ba-4d95-a2bb-394ee4ec87cc.jpg" width="200" height="200" />
+
 Laisse votre console sur cette écran pendant 10min pour évité la réinstallation
 
 1. Maintenir le bouton power pendant 10 secondes
