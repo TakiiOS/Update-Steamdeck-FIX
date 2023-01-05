@@ -18,4 +18,4 @@ Si vous avez ceci après votre réinstallation pas de panique , j’ai la soluti
 
 ***
 
-Created By Taki pour Puissance SteamDeck
+Created By Discord: Offtaki#6836 pour Puissance SteamDeck
