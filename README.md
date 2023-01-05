@@ -2,12 +2,12 @@
 
 Tuto Fix l’update loops après le changement de disque dur.
 
-Si vous avez ce-ci après votre réinstallation pas de panique , j’ai la solution
+Si vous avez ceci après votre réinstallation pas de panique , j’ai la solution
 
 [![](https://cdn.discordapp.com/attachments/1001582672440737822/1060611837588152470/unbrick.jpg)](https://puissancesteamdeck.com/)
 
-Laisse votre console sur cette écran pendant 10min pour évité la réinstallation
 
+0. Prérequis. laissez votre console sur cet écran pendant 10 min pour éviter la réinstallation
 1. Maintenir le bouton power pendant 10 secondes
 2. Re sélectionné votre langue et votre date.
 3. Re sélectionné votre wi-fi « important que ça soit le même wi-fi
