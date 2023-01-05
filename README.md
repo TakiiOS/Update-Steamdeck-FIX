@@ -2,7 +2,7 @@
 
 Tuto Fix l’update loops après le changement de disque dur.
 
-Si vous avez ceci après votre réinstallation pas de panique , j’ai la solution
+Si vous avez ceci après votre réinstallation pas de panique , j’ai la solution.
 
 [![](https://cdn.discordapp.com/attachments/1001582672440737822/1060611837588152470/unbrick.jpg)](https://puissancesteamdeck.com/)
 
@@ -18,4 +18,4 @@ Si vous avez ceci après votre réinstallation pas de panique , j’ai la soluti
 
 ***
 
-Created By Taki pour Puissance  SteamDeck
+Created By Taki pour Puissance SteamDeck
