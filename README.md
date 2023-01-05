@@ -4,7 +4,7 @@ Tuto Fix l’update loops après le changement de disque dur.
 
 Si vous avez ce-ci après votre réinstallation pas de panique , j’ai la solution
 
-[![]((https://cdn.discordapp.com/attachments/1001582672440737822/1060611837588152470/unbrick.jpg))]
+[![](https://cdn.discordapp.com/attachments/1001582672440737822/1060611837588152470/unbrick.jpg)](https://puissancesteamdeck.com/)
 
 Laisse votre console sur cette écran pendant 10min pour évité la réinstallation
 
