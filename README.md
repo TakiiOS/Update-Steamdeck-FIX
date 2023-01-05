@@ -10,7 +10,7 @@ Si vous avez ceci après votre réinstallation pas de panique , j’ai la soluti
 0. Prérequis. laissez votre console sur cet écran pendant 10 min pour éviter la réinstallation
 1. Maintenir le bouton power pendant 10 secondes
 2. Re sélectionné votre langue et votre date.
-3. Re sélectionné votre wi-fi « important que ça soit le même wi-fi
+3. Re sélectionné votre wi-fi " important que ça soit le même wi-fi "
 4. Vous allez avoir le même bug pas de panique attend 5 minutes
 5. Faite [B] retourner à la sélection des langues puis suivantes, jusqu’au Wi-Fi, re sélectionner votre Wi-Fi
 6. La mise à jour devrait passer et ça va reboot la console 
